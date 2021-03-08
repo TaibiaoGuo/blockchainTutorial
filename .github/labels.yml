@@ -1,0 +1,40 @@
+---
+# Default GitHub labels
+- color: d73a4a
+  name: bug
+  description: Something isn't working
+- color: cfd3d7
+  name: duplicate
+  description: This issue or pull request already exists
+- color: a2eeef
+  name: enhancement
+  description: New feature or request
+- color: 7057ff
+  name: good first issue
+  description: Good for newcomers
+- color: 008672
+  name: help wanted
+  description: Extra attention is needed
+- color: e4e669
+  name: invalid
+  description: This doesn't seem right
+- color: d876e3
+  name: question
+  description: Further information is requested
+- color: ffffff
+  name: wontfix
+  description: This will not be worked on
+
+# Labels specific to blockchainTutorial
+- color: "008672"
+  description: 阅读人员对某个内容不理解
+  name: reader/confused
+- color: "d73a4a"
+  description: 阅读人员发现错误 
+  name: reader/error
+- color: "d73a4a"
+  description: 校对人员发现错误
+  name: reviewer/error
+- color: "d73a4a"
+  description: 自动化代码出错
+  name: workflow/error
