@@ -5,7 +5,7 @@ on:
     paths:
       - '.github/labels.yml'
     branches:
-      - master
+      - main
 jobs:
   build:
     name: Sync labels
