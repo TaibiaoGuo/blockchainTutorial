@@ -1,10 +1,11 @@
+---
 name: Sync labels
 on:
   push:
     branches:
       - main
     paths:
-      - .github/labels.yml
+      - '.github/labels.yml'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,4 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          manifest: .github/labels.yml
+          manifest: '.github/labels.yml'
