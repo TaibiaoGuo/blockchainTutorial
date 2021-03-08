@@ -27,7 +27,7 @@
 
 # Labels specific to blockchainTutorial
 - color: "008672"
-  description: 阅读人员对某个内容不理解
+  description: 阅读人员对内容不理解
   name: reader/confused
 - color: "d73a4a"
   description: 阅读人员发现错误 
