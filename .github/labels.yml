@@ -25,7 +25,7 @@
   name: wontfix
   description: This will not be worked on
 
-# Labels specific to blockchainTutorial
+# Labels specific to blockchainTutorial 
 - color: "008672"
   description: 阅读人员对内容不理解
   name: reader/confused
