@@ -1,6 +1,8 @@
 # blockchainTutorial
 
-> 新闻：[BTM语法规范](https://github.com/TaibiaoGuo/blockchainTutorial/wiki/BTM%E8%AF%AD%E6%B3%95%E8%A7%84%E8%8C%83)已发布，在编写前请查看。
+> 新闻：
+> [BTM语法规范](https://github.com/TaibiaoGuo/blockchainTutorial/wiki/BTM%E8%AF%AD%E6%B3%95%E8%A7%84%E8%8C%83)已发布，在编写前请查看。
+> [书籍编写工作流程规范](https://github.com/TaibiaoGuo/blockchainTutorial/wiki/%E7%BC%96%E5%86%99%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E8%A7%84%E8%8C%83) 已发布，在编辑钱请查看。
 
 1. 愿景
 
